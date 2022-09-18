@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuoteGenerator</string>
+    <string name="qoute1">“Once you choose hope, anything’s possible.”\n - Christopher Reeve</string>
+    <string name="qoute2">“Authenticity is an act of social justice.” \n - Kierra C.T. Banks</string>
+    <string name="qoute3">“I aspire to be a woman that inspires by being.”\n - Kierra C.T. Banks</string>
+    <string name="qoute4"> "The purpose of our lives is to be happy."\n — Dalai Lama</string>
+    <string name="qoute5"> "Get busy living or get busy dying."\n — Stephen King</string>
+</resources>
